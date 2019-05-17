@@ -1,2 +1,2 @@
-# rspamd-rpm-devel
-Development RPM database
+# rspamd-rpm
+Rspam Development
