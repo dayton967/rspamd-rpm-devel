@@ -1,3 +1,3 @@
 #Type  Name     ID                  GECOS                   Home directory
-u      rspamd   /usr/share/rspamd   "rspamd Mail Filter"    -
+u      rspamd   984   "rspamd Mail Filter"    /var/lib/rspamd
 

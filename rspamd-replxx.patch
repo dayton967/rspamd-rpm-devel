@@ -1,0 +1,12 @@
+diff -ur rspamd-2.3/contrib/replxx/src/io.cxx rspamd-2.3.new/contrib/replxx/src/io.cxx
+--- rspamd-2.3/contrib/replxx/src/io.cxx	2020-02-04 11:00:17.000000000 -0500
++++ rspamd-2.3.new/contrib/replxx/src/io.cxx	2020-03-10 15:13:52.114680317 -0400
+@@ -3,6 +3,8 @@
+ #include <cstdlib>
+ #include <cstring>
+ #include <array>
++#include <exception>
++#include <stdexcept>
+ 
+ #ifdef _WIN32
+ 

@@ -1,2 +1,2 @@
-# rspamd-rpm
-Rspam Development
+# rspamd-rpm-devel
+Rspam Development and Testing
